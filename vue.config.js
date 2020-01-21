@@ -5,7 +5,7 @@ module.exports = {
     "vuetify"
   ],
     pwa: {
-        name: 'My App',
+        name: 'Dice-Ish',
         themeColor: '#4DBA87',
         msTileColor: '#000000',
         appleMobileWebAppCapable: 'yes',

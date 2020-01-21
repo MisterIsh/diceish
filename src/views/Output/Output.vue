@@ -4,8 +4,7 @@
     justify="center"
   >
     <v-col
-      cols="12"
-      xs="8"
+      cols="11"
       sm="9"
       md="8"
     >
