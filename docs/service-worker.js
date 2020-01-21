@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/diceish/precache-manifest.d90e75e7ec1f445d6d9dfba72ed9648b.js"
+  "/diceish/precache-manifest.e0435d0c11add1dd7897ec63bb2fd7d4.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "diceish"});

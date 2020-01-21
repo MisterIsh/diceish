@@ -10,9 +10,9 @@
           alt="Vuetify Logo"
           class="shrink mr-2"
           contain
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-dark.png"
+          src="~@/assets/diceIshWhite.svg"
           transition="scale-transition"
-          width="40"
+          width="120"
         />
 
         <v-img
@@ -27,14 +27,6 @@
 
       <v-spacer></v-spacer>
 
-      <v-btn
-        href="https://github.com/vuetifyjs/vuetify/releases/latest"
-        target="_blank"
-        text
-      >
-        <span class="mr-2">Latest Release</span>
-        <v-icon>mdi-open-in-new</v-icon>
-      </v-btn>
     </v-app-bar>
 <!--      FIXME: Need to fix the logo and the href to point to my portfolio site-->
     <v-content>
