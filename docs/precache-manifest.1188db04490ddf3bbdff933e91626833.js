@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diceish/img/diceIshWhite.165431f5.svg"
   },
   {
-    "revision": "8608e01f35223108645be0a763cb89da",
+    "revision": "269c8d5b03aad3668d89d0904951e56a",
     "url": "/diceish/index.html"
   },
   {
-    "revision": "8c627f7a972633f1f1b8",
-    "url": "/diceish/js/app.4fda9bb3.js"
+    "revision": "6669c70f4e44e7d57fbb",
+    "url": "/diceish/js/app.bf1d6a46.js"
   },
   {
     "revision": "b273cd22217fe077f823",
